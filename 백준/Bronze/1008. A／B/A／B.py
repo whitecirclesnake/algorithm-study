@@ -1,2 +1,2 @@
-A, B = input().split()
-print(int(A)/int(B))
+a, b = input().split()
+print(int(a) / int(b))
